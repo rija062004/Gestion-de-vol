@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "RUbxCFoAXmo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RIJA\\Desktop\\All Project\\C#\\Projet C#\\vol\\vol\\vol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RIJA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\RIJA\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\RIJA\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Une erreur s’est produite lors de l’obtention des données de vulnérabilité du package : Impossible de charger l'index de service pour la source https://api.nuget.org/v3/index.json."
+    }
+  ]
+}

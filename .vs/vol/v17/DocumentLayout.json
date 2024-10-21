@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RIJA\\Desktop\\All Project\\C#\\Projet C#\\vol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27128E79-E07B-4D6C-BC42-B0E6892EFA41}|vol\\vol.csproj|c:\\users\\rija\\desktop\\all project\\c#\\projet c#\\vol\\vol\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27128E79-E07B-4D6C-BC42-B0E6892EFA41}|vol\\vol.csproj|solutionrelative:vol\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27128E79-E07B-4D6C-BC42-B0E6892EFA41}|vol\\vol.csproj|c:\\users\\rija\\desktop\\all project\\c#\\projet c#\\vol\\vol\\formclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27128E79-E07B-4D6C-BC42-B0E6892EFA41}|vol\\vol.csproj|solutionrelative:vol\\formclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27128E79-E07B-4D6C-BC42-B0E6892EFA41}|vol\\vol.csproj|C:\\Users\\RIJA\\Desktop\\All Project\\C#\\Projet C#\\vol\\vol\\formacceuil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27128E79-E07B-4D6C-BC42-B0E6892EFA41}|vol\\vol.csproj|solutionrelative:vol\\formacceuil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27128E79-E07B-4D6C-BC42-B0E6892EFA41}|vol\\vol.csproj|C:\\Users\\RIJA\\Desktop\\All Project\\C#\\Projet C#\\vol\\vol\\formclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27128E79-E07B-4D6C-BC42-B0E6892EFA41}|vol\\vol.csproj|solutionrelative:vol\\formclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\RIJA\\Desktop\\All Project\\C#\\Projet C#\\vol\\vol\\Client.cs",
+              "RelativeDocumentMoniker": "vol\\Client.cs",
+              "ToolTip": "C:\\Users\\RIJA\\Desktop\\All Project\\C#\\Projet C#\\vol\\vol\\Client.cs",
+              "RelativeToolTip": "vol\\Client.cs",
+              "ViewState": "AQIAAGkAAAAAMjMzMzMTwHwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:10:38.494Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormClient.cs",
+              "DocumentMoniker": "C:\\Users\\RIJA\\Desktop\\All Project\\C#\\Projet C#\\vol\\vol\\FormClient.cs",
+              "RelativeDocumentMoniker": "vol\\FormClient.cs",
+              "ToolTip": "C:\\Users\\RIJA\\Desktop\\All Project\\C#\\Projet C#\\vol\\vol\\FormClient.cs",
+              "RelativeToolTip": "vol\\FormClient.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAD4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:12:12.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormClient.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\RIJA\\Desktop\\All Project\\C#\\Projet C#\\vol\\vol\\FormClient.cs",
+              "RelativeDocumentMoniker": "vol\\FormClient.cs",
+              "ToolTip": "C:\\Users\\RIJA\\Desktop\\C# officiel\\Projet C#\\vol\\vol\\FormClient.cs [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\C# officiel\\Projet C#\\vol\\vol\\FormClient.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:12:04.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAcceuil.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\RIJA\\Desktop\\All Project\\C#\\Projet C#\\vol\\vol\\FormAcceuil.cs",
+              "RelativeDocumentMoniker": "vol\\FormAcceuil.cs",
+              "ToolTip": "C:\\Users\\RIJA\\Desktop\\C# officiel\\Projet C#\\vol\\vol\\FormAcceuil.cs [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\C# officiel\\Projet C#\\vol\\vol\\FormAcceuil.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:21:27.075Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
